@@ -23,22 +23,18 @@
 
 
   
- 
-  
-</div>
- <img align="right" alt="gif"  src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/25c93289-0576-4645-bc48-e828abec9740/de2x6xe-aa7e3f5c-dee4-4ad6-9068-d839e28848d7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzI1YzkzMjg5LTA1NzYtNDY0NS1iYzQ4LWU4MjhhYmVjOTc0MFwvZGUyeDZ4ZS1hYTdlM2Y1Yy1kZWU0LTRhZDYtOTA2OC1kODM5ZTI4ODQ4ZDcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.J0vMDf_9zXs032iHZM7mhr1FV5RrayG_triIq6w5oLU">
+
 
  
 ## 
 
-<p> ㅤ </p>
-<p> ㅤ </p>
-<p> ㅤ </p>
-<p> ㅤ </p>
 
 
 <h3>📨 Contacte-me:</h3>
 ㅤ
+</div>
+ <img align="right" alt="gif"  src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/25c93289-0576-4645-bc48-e828abec9740/de2x6xe-aa7e3f5c-dee4-4ad6-9068-d839e28848d7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzI1YzkzMjg5LTA1NzYtNDY0NS1iYzQ4LWU4MjhhYmVjOTc0MFwvZGUyeDZ4ZS1hYTdlM2Y1Yy1kZWU0LTRhZDYtOTA2OC1kODM5ZTI4ODQ4ZDcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.J0vMDf_9zXs032iHZM7mhr1FV5RrayG_triIq6w5oLU">
+
 <div style="display: inline_block; flex-wrap: nowrap" align = "center"> 
   <a href = "mailto:davicampoi09@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/davi-campoi-837703321/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
