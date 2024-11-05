@@ -26,7 +26,7 @@
  
   
 </div>
- <img align="right" alt="gif" height="30" width="40" src="https://64.media.tumblr.com/010f1f83abb4c6415e3ad96fd4461ff1/7db6c5aa2e5ec027-34/s540x810/8fa70a52e79aec8eb6b9b05e53ff0ad8a7ca2b23.gif">
+ <img align="right" alt="gif" height="100" width="100" src="https://64.media.tumblr.com/010f1f83abb4c6415e3ad96fd4461ff1/7db6c5aa2e5ec027-34/s540x810/8fa70a52e79aec8eb6b9b05e53ff0ad8a7ca2b23.gif">
 
  
 ## 
