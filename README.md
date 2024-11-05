@@ -4,8 +4,8 @@
 <p>ㅤ</p>
   
 <p align="center" flex-direction="column">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=DaviCampoi&show_icons=true&title_color=3BC4D1&text_color=3BC4D1&bg_color=171717&icon_color=FF2E3D&rank_icon=github" /> ㅤ
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviCampoi&layout=compact&title_color=3BC4D1&text_color=3BC4D1&bg_color=171717&icon_color=277E86"
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=DaviCampoi&show_icons=true&title_color=FF2E3D&text_color=FF2E3D&bg_color=171717&icon_color=FF2E3D&rank_icon=github" /> ㅤ
+  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviCampoi&layout=compact&title_color=FF2E3D&text_color=FF2E3D&bg_color=171717&icon_color=277E86"
 </p>
 
 <h3>👨‍💻 Technologies:</h3>  
